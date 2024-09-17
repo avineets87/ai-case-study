@@ -7,12 +7,9 @@
 * When was the company incorporated? April 2023
 
 * Who are the founders of the company?
-    Arthur Mensch
-    (Co-Founder & CEO)
-    Guillaume Lample
-    (Co-Founder & Chief Scientist)
-    Timothée Lacroix
-    (Co-Founder & CTO)
+    Arthur Mensch (Co-Founder & CEO)
+    Guillaume Lample (Co-Founder & Chief Scientist)
+    Timothée Lacroix (Co-Founder & CTO)
 
 * How did the idea for the company (or project) come about?
 Arthur Mensch worked at Google DeepMind while Guillaume Lample and Timothée Lacroix worked at Meta Platforms. They met at the university where they studied AI from 2011 to 2014. 
