@@ -25,11 +25,12 @@ In June 2024, Mistral AI announced a new funding round of €600 million ($645 m
 
 * What specific problem is the company or project trying to solve?
 
-Mistral AI develops open-source foundational models. These are an alternative to closed, proprietary AI models like those developed by OpenAI, Google, and Anthropic. The company also focuses on developing more efficient and cost-effective models, targeting the “performance-cost frontier.” For example, in October 2023 a third-party source estimated that the Mistral 7B model was about 187x cheaper than GPT-4 and 9x cheaper than GPT-3.5.
+    * Mistral AI develops open-source foundational models. These are an alternative to closed, proprietary AI models like those developed by OpenAI, Google, and Anthropic. The company also focuses on developing more efficient and cost-effective models, targeting the “performance-cost frontier.” For example, in October 2023 a third-party source estimated that the Mistral 7B model was about 187x cheaper than GPT-4 and 9x cheaper than GPT-3.5.
 
-Mensch stated that the goal behind Mistral AI was “to create a European champion with a global vocation in generative artificial intelligence, based on an open, responsible, and decentralized approach to technology."
+    * Mensch stated that the goal behind Mistral AI was “to create a European champion with a global vocation in generative artificial intelligence, based on an open, responsible, and decentralized approach to technology."
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
+  * 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
@@ -64,5 +65,5 @@ Mensch stated that the goal behind Mistral AI was “to create a European champi
 ## Sources
 https://en.wikipedia.org/wiki/Mistral_AI
 https://research.contrary.com/company/mistral-ai
-
+https://olivermolander.medium.com/the-113m-mistral-ai-seed-round-why-so-much-hate-c1682915bf62
 
