@@ -62,10 +62,13 @@
 ## Landscape
 
 * What field is the company in?
-
+	- Mistral AI operates in the field of artificial intelligence, specifically focusing on generative AI and natural language processing (NLP)
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+	- Advancements in AI/LLM have been huge.
+ 	- The introduction of transformer architecture, such as BERT and GPT, has revolutionized NLP, leading to better contextual understanding and generation of human-like text.
 
 * What are the other major companies in this field?
+	* IBM (US), NVIDIA (US), Open AI (US), Anthropic (US), Meta (US), Microsoft (US), Google (US), AWS (US), Adobe (US), Accenture (Ireland), Capgemini (France), Insilico Medicine (Hong Kong), Simplified (US), Lumen5 (Canada), AI21 Labs (Israel), Hugging Face (US), Dialpad (US), Persado (US), Copy.ai (US), Synthesis AI (US), Hypernetuse AI (US), Viable (US), Together AI (US), Defog.ai (Singapore), Adept (US), DeepSearch Labs (UK), Stability AI (UK), Lightricks (Israel), Cohere (Canada), Writesonic (US), Colossyan (UK), amberSearch (Germany), Mosaic ML (US), Inflection AI (US), Glean (US), Jasper (US), Runway (US), Inworld AI (US), Typeface (US), Paige.AI (US), Upstage (South Korea), PlayHT (US), Speechify (US), Midjourney (US), Fireflies (US), InstaDeep (UK), Synthesis (UK), Mostly AI (Austria), Forethought (US), Character.ai (US), GFP-GAN (China), Fontjoy (Italy), EtherAI (US), Starry AI (US), Magic Studio (US), Balchuan AI (China), Salesforce (US), Technology Innovation Institute (Abu Dhabi), Abacus.AI (US), and OpenLM (US).
 
 ## Results
 
