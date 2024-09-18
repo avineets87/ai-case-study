@@ -89,7 +89,7 @@
 * Why are these technologies appropriate for your solution?
 
 ## Sources
--https://en.wikipedia.org/wiki/Mistral_AI
--https://research.contrary.com/company/mistral-ai
--https://olivermolander.medium.com/the-113m-mistral-ai-seed-round-why-so-much-hate-c1682915bf62
--https://www.prnewswire.com/news-releases/generative-ai-market-worth-136-7-billion-by-2030---exclusive-report-by-marketsandmarkets-302129818.html
+* https://en.wikipedia.org/wiki/Mistral_AI
+* https://research.contrary.com/company/mistral-ai
+* https://olivermolander.medium.com/the-113m-mistral-ai-seed-round-why-so-much-hate-c1682915bf62
+* https://www.prnewswire.com/news-releases/generative-ai-market-worth-136-7-billion-by-2030---exclusive-report-by-marketsandmarkets-302129818.html
