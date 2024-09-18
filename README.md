@@ -43,8 +43,21 @@
     * The report by MarketsandMarkets predicts that the generative AI market will reach approximately $136.7 billion by 2030. The growth is driven by increasing demand for AI applications across various industries, including healthcare, finance, and entertainment. Key factors contributing to this expansion include advancements in AI technologies, rising investments, and the need for personalized customer experiences. The report highlights major players in the market and notes that North America is expected to dominate, while Asia-Pacific is anticipated to show significant growth.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-    * 
+   - Mistral's mission as quoted on there [about us](https://mistral.ai/company/#missions) page
+      > Our mission is to make frontier AI ubiquitous, and to provide
+      > tailor-made AI to all the builders. This requires fierce independence,
+      > strong commitment to open, portable and customisable solutions, and an
+      > extreme focus on shipping the most advanced technology in limited time
+   - Mistral's AI models have several advantages - 
+	   - Open source models with Apache 2.0 license.
+	   - Low compute AI models which means they are significantly cheaper
+	   - Faster perform models with higher degree of accuracy
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+	* **Transformers Architecture**: They utilize transformer models, which are foundational for many generative AI applications. This architecture allows for high performance in natural language processing tasks
+	* **Open-Weight Models**: Mistral focuses on developing models with open weights, allowing developers to customize and fine-tune them for specific applications.
+	* **Deep Learning Frameworks**: They likely use popular frameworks such as TensorFlow and PyTorch for model development and training, enabling efficient experimentation and deployment.
+	* **Distributed Computing**: Implementing distributed computing techniques helps optimize model training on large datasets, enhancing performance and scalability.
+	* **Containerization and Orchestration**: Technologies like Docker and Kubernetes may be utilized for deploying AI models in a scalable manner, facilitating easier integration into existing systems
 
 ## Landscape
 
