@@ -7,19 +7,19 @@
 * When was the company incorporated? April 2023
 
 * Who are the founders of the company?
-    Arthur Mensch (Co-Founder & CEO)
-    Guillaume Lample (Co-Founder & Chief Scientist)
-    Timothée Lacroix (Co-Founder & CTO)
+    * Arthur Mensch (Co-Founder & CEO)
+    * Guillaume Lample (Co-Founder & Chief Scientist)
+    * Timothée Lacroix (Co-Founder & CTO)
 
 * How did the idea for the company (or project) come about?
-Arthur Mensch worked at Google DeepMind while Guillaume Lample and Timothée Lacroix worked at Meta Platforms. They met at the university where they studied AI from 2011 to 2014. 
+    * Arthur Mensch worked at Google DeepMind while Guillaume Lample and Timothée Lacroix worked at Meta Platforms. They met at the university where they studied AI from 2011 to 2014. 
 
-In 2021, the three founders started talking about the direction they saw AI taking, noting the development of the technology was accelerating and that there was an opportunity to do things differently; instead of following a proprietary model approach, they argued for an open-source approach. Finally, Mistral AI founded in April 2023.
+    * In 2021, the three founders started talking about the direction they saw AI taking, noting the development of the technology was accelerating and that there was an opportunity to do things differently; instead of following a proprietary model approach, they argued for an open-source approach. Finally, Mistral AI founded in April 2023.
 
 * How is the company funded? How much funding have they received?
-In October 2023, Mistral AI raised €385 million.[4] By December 2023, it was valued at over $2 billion.
+    * In October 2023, Mistral AI raised €385 million.[4] By December 2023, it was valued at over $2 billion.
 
-In June 2024, Mistral AI announced a new funding round of €600 million ($645 million), significantly boosting its valuation to €5.8 billion ($6.2 billion). This round was led by the venture capital firm General Catalyst, with participation from existing investors
+    * In June 2024, Mistral AI announced a new funding round of €600 million ($645 million), significantly boosting its valuation to €5.8 billion ($6.2 billion). This round was led by the venture capital firm General Catalyst, with participation from existing investors
 
 ## Business Activities
 
@@ -27,13 +27,23 @@ In June 2024, Mistral AI announced a new funding round of €600 million ($645 m
 
     * Mistral AI develops open-source foundational models. These are an alternative to closed, proprietary AI models like those developed by OpenAI, Google, and Anthropic. The company also focuses on developing more efficient and cost-effective models, targeting the “performance-cost frontier.” For example, in October 2023 a third-party source estimated that the Mistral 7B model was about 187x cheaper than GPT-4 and 9x cheaper than GPT-3.5.
 
-    * Mensch stated that the goal behind Mistral AI was “to create a European champion with a global vocation in generative artificial intelligence, based on an open, responsible, and decentralized approach to technology."
+    * Mensch (co-founder & CEO) stated that the goal behind Mistral AI was “to create a European champion with a global vocation in generative artificial intelligence, based on an open, responsible, and decentralized approach to technology."
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
-  * 
+    - Mistral's AI models primarily targets businesses and organizations that require advanced
+   AI solutions. Their intended customers include:
+    - **Tech Companies**: Firms that need powerful AI models for natural    language processing, machine learning, and other advanced   
+   computational tasks.
+	 - **Large Enterprises**: Corporations seeking to integrate AI into their operations for efficiency, automation, and enhanced data
+   analysis.
+      - **Financial Services**: Organizations in the finance sector that use AI for risk assessment, fraud detection, and trading algorithms.
+       - **Healthcare**: Institutions needing AI for diagnostics, patient management, and research.
+       - **Retail**: Companies looking to use AI for customer insights, personalized recommendations, and inventory management.
+       - Some examples of there existing customers are: *Brave, BNP Paribas, Orange*, and *Cloudflare*
+    * The report by MarketsandMarkets predicts that the generative AI market will reach approximately $136.7 billion by 2030. The growth is driven by increasing demand for AI applications across various industries, including healthcare, finance, and entertainment. Key factors contributing to this expansion include advancements in AI technologies, rising investments, and the need for personalized customer experiences. The report highlights major players in the market and notes that North America is expected to dominate, while Asia-Pacific is anticipated to show significant growth.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
+    * 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 ## Landscape
@@ -66,4 +76,4 @@ In June 2024, Mistral AI announced a new funding round of €600 million ($645 m
 https://en.wikipedia.org/wiki/Mistral_AI
 https://research.contrary.com/company/mistral-ai
 https://olivermolander.medium.com/the-113m-mistral-ai-seed-round-why-so-much-hate-c1682915bf62
-
+https://www.prnewswire.com/news-releases/generative-ai-market-worth-136-7-billion-by-2030---exclusive-report-by-marketsandmarkets-302129818.html
