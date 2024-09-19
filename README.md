@@ -1,5 +1,5 @@
 # ai-case-study
-
+![MISTRAL AI](https://mistral.ai/images/logo_hubc88c4ece131b91c7cb753f40e9e1cc5_2589_256x0_resize_q97_h2_lanczos_3.webp)
 ## Overview and Origin
 
 * Name of company: Mistral AI
@@ -104,10 +104,7 @@
 	* **Continued Expansion of Data & Compute**:AI model performance improves with increased data and computing power. Global data is growing by 60-70% annually, while computing power is expected to increase tenfold by 2030. Mistral AI can leverage these trends to enhance its models and drive efficiency across industries.
 
 * Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+	* Mistral AI’s models are designed to “target the performance-cost frontier” which means they target emerging economies and small-medium businesses. 
 
 ## Sources
 * https://en.wikipedia.org/wiki/Mistral_AI
