@@ -74,13 +74,34 @@
 
 * What has been the business impact of this company so far?
 
+  	* Mistral has had notable impact in the industries world wide. With its core being transparency, performance and cost-effectiveness. It has boosted AI adoption worldwide.
+   	
+    	* As of April 2024, Mistral AI had raised a total of $536.8 million across five funding rounds from investors including a16z, Databricks Ventures, Lightspeed Venture Partners, and Microsoft. Mistral AI closed a $113 million seed round in June 2023, four weeks after its launch, at a $260 million valuation. In December 2023, the company raised a $415 million round at a $2 billion valuation. In February 2024, Mistral AI sealed a distribution partnership with Microsoft; as part of this partnership, Microsoft invested $16.3 million into the company. As of April 2024, Mistral AI was reportedly raising “hundreds of millions of dollars” and seeking a $5 billion valuation
+
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+	* five key metrics for assessing the success of generative AI deployments and pilot projects:
+		* Business Impact: Measure how the AI solution affects business outcomes, such as revenue growth, cost savings, or efficiency improvements.
+		
+		* User Engagement: Track user adoption rates and satisfaction to ensure the AI solution meets user needs and encourages ongoing use.
+		
+		* Model Performance: Evaluate the quality of the AI-generated outputs through metrics like accuracy, precision, and user feedback to ensure effectiveness.
+		
+		* Operational Efficiency: Assess the deployment process, including training time and inference speed, to identify areas for optimization.
+		
+		* Scalability: Analyze how well the AI solution can scale with increasing data or user demands, ensuring it can grow alongside business needs.
 
 * How is your company performing relative to competitors in the same field?
+	* Mistral AI is gaining traction and recognition in the market, particularly among developers and organizations that prioritize customization and ethical AI development. While it may not yet match the scale of giants like OpenAI or Google, its unique offerings and community-driven approach position it well for future growth and impact in the AI landscape.
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+  	* **Expansion into Emerging Markets**: Emerging markets represented 53% of the global economy in 2013 and are set to grow faster than developed economies. The IMF projected in January 2024 that AI could impact 40% of jobs in these regions, driving demand for cost-effective AI solutions. Mistral AI addresses this with its Mistral 7B model, which is 187 times cheaper than GPT-4 and excels in multilingual capabilities, making it well-suited for these markets.
+
+	* **Customized AI Solutions for SMBs**:Mistral AI primarily targets enterprises but has opportunities in the small-to-medium business (SMB) sector, projected to grow to $90.7 billion by 2027. With 53% of SMBs prioritizing AI, Mistral’s cost-effective models could effectively meet their needs.
+
+	* **Continued Expansion of Data & Compute**:AI model performance improves with increased data and computing power. Global data is growing by 60-70% annually, while computing power is expected to increase tenfold by 2030. Mistral AI can leverage these trends to enhance its models and drive efficiency across industries.
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -93,3 +114,4 @@
 * https://research.contrary.com/company/mistral-ai
 * https://olivermolander.medium.com/the-113m-mistral-ai-seed-round-why-so-much-hate-c1682915bf62
 * https://www.prnewswire.com/news-releases/generative-ai-market-worth-136-7-billion-by-2030---exclusive-report-by-marketsandmarkets-302129818.html
+* https://www.fluid.ai/blog/generative-ai-mastery-5-metrics-for-successful-deployment-and-pilots
